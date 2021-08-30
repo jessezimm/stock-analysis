@@ -62,7 +62,7 @@ To create the more efficient code, I copied the Module code and was provided com
 ### Analysis
 For 2017 and 2018, the data is presented in two charts each containing the stock ticker (trading symbol), the total daily volume, and the annual return for each stock. The annual return is calculated by taking the stock's initial price at the beginning of the year and dividing it by the stock's year-ending price, and then, subtracting one. In 2017, only one of 12 stocks (Stock: TERP) had a negative return. In 2018, only two stocks had a positive return, ENPH and RUN. Overall, 2017 was a better performing year than 2018 for the 12 stocks evaluated. 
 
-![Stock Analysis - 2017]()
+![Stock Analysis - 2017](https://github.com/jessezimm/stock-analysis/blob/main/VBA_Challenge_2017.PNG)
 ![Stock Analysis - 2018]()
 
 ## Summary
